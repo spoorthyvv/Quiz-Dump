@@ -1,0 +1,454 @@
+// question: 0  name: Switch category to $module$/top/Default for Biomolecules and II PUC practicals.
+$CATEGORY: $module$/top/Default for Biomolecules and II PUC practicals.
+
+
+// question: 125  name: Q1
+::Q1::[html]<p><p>Number\nof stereo centers present in linear and cyclic structures of glucose are\nrespectively\:</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) 4 &amp; 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) 4 &amp;\n5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) 5\n&amp;4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) 5\n&amp;5</p><br></p>{
+	~%-25%<p>1</p>
+	=2
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><img src\="@@PLUGINFILE@@/Ans1.png" alt\="" width\="367" height\="166" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>
+}
+
+
+// question: 227  name: Q10
+::Q10::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]-->The\ndipeptide glycylalanine contains </p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) glycine as C-terminal residue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) glycine as N-terminal\nresidue </p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) alanine as N-terminal residue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) either (1) or (2)</p><br></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%3
+	~%-25%<p>4</p>
+	####<p><p><b>Ans\n\: 2; By convention, the name of any polypeptide is written starting from the\nN-terminal residue.</b></p>\n\n<p><b>&nbsp;</b></p><br></p>
+}
+
+
+// question: 231  name: Q11
+::Q11::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]-->Vitamin\nB<sub>12</sub>&nbsp; is present in</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n1) Meat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n2) Fish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n3) Egg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n4) Curd</p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	=<p>4</p>
+	####<p><b>Ans\n\: 4.</b><br></p>
+}
+
+
+// question: 240  name: Q12
+::Q12::[html]<p><p>&nbsp; &nbsp; &nbsp;<img src\="@@PLUGINFILE@@/Q12.png" alt\="" width\="644" height\="107" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	=<p>4</p>
+	####<p><p>&nbsp;<b>Ans \: 4. </b></p><br></p>
+}
+
+
+// question: 250  name: Q13
+::Q13::[html]<p><p>In\nan amino acid, the carboxyl group ionizes at pKa<sub>1</sub> \= 2.34 and\nammonium ion at pKa<sub>2</sub> \= 9.60. The isoelectric point of the amino acid\nis at pH</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n1) 5.97&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n2) 2.34&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3)\n9.60&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4)\n6.97</p><br></p>{
+	=<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><b>Ans \: 1</b></p>\n\n<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nIsoelectric point (pI) \=(pKa<sub>1</sub> + pKa<sub>2</sub>) /2</b></p>\n\n<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \= (2.34 + 9.60)/2 \=\n5.97</b></p><br></p>
+}
+
+
+// question: 253  name: Q14
+::Q14::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]-->Which\nof the following statements about denaturation given below are correct&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I. Denaturation of proteins causes loss\nof secondary and tertiary structure of the protein.&nbsp; </p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; II. Denaturation leads to the conversion\nof double strands of DNA into single strand.</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; III. Denaturation affects primary\nstructure which gets distorted.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) II and III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) I and III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) I and II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4) I, II and III</p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	=<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><b>Ans\n\: 3</b></p><br></p>
+}
+
+
+// question: 259  name: Q15
+::Q15::[html]<p><img src\="@@PLUGINFILE@@/Q15.png" alt\="" width\="627" height\="94" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><img src\="@@PLUGINFILE@@/Ans15.png" alt\="" width\="623" height\="121" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>
+}
+
+
+// question: 276  name: Q16
+::Q16::[html]<p><img src\="@@PLUGINFILE@@/Q16.png" alt\="" width\="703" height\="66" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><img src\="@@PLUGINFILE@@/Ans16..png" alt\="" width\="618" height\="66" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>
+}
+
+
+// question: 285  name: Q17
+::Q17::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]-->Which\nof the following does not exhibit the phenomenon of mutarotation?</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n1) (-) fructose &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) (+) sucrose&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) (+) lactose&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) (+) maltose</p><br></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><b>Ans\n\: 2; Sucrose due to the absence of hemiacetal linkage doesn’t show\nmutarotation.</b></p><br></p>
+}
+
+
+// question: 294  name: Q18
+::Q18::[html]<p><p><img src\="@@PLUGINFILE@@/Q18.png" alt\="" width\="868" height\="69" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	=<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p>&nbsp;<b>Ans \: 3.</b></p><br></p>
+}
+
+
+// question: 303  name: Q19
+::Q19::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]--><b>Assertion\:</b> Valine is an\nessential amino acid.</p>\n\n<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reason\:</b> The lack of\nessential amino acids in the diet causes Kwashiorkor.</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) Assertion is correct, reason is\ncorrect reason is a correct explanation for assertion.</p>\n\n<p>&nbsp; &nbsp; &nbsp; <span style\="font-size\: 0.9375rem;">2)\nAssertion is correct, reason is correct; reason is not a correct explanation\nfor assertion.</span></p>\n\n<p>&nbsp; &nbsp; &nbsp; 3) Assertion is correct, reason is incorrect.</p>\n\n<p>&nbsp; &nbsp; &nbsp; 4) Assertion is incorrect, reason is\ncorrect.</p><br></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%3
+	~%-25%<p>4</p>
+	####<p><b>Ans\n\: 2; Essential amino acid are those which the human body cannot synthesize.</b><br></p>
+}
+
+
+// question: 117  name: Q2
+::Q2::[html]<p><p><!--[if !supportLists]-->1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<!--[endif]-->Which\nof the following statements is not true about sucrose?</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) The Glycosidic linkage is present\nbetween C<sub>1</sub> of a-Glucose and C<sub>1</sub> of b-fructose.</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) It is also named as invert sugar</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) It is a non reducing sugar</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) On hydrolysis, it produces glucose\nand fructose</p><br></p>{
+	=<p>1</p>
+	~%-25%2
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><b>Ans \: 1,Glycosidic\nlinkage is between C<sub>1 </sub>of<sub> </sub></b><b>a</b><b>-Glucose and C<sub>2 </sub>of </b><b>b</b><b>-fructose.</b></p><br></p>
+}
+
+
+// question: 308  name: Q20
+::Q20::[html]<p><p><!--[if !supportLists]-->1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<!--[endif]-->Match\nthe columns</p>\n\n<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Column\n– I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nColumn – I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b></p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A.Vitamin B<sub>6</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nI. Fat soluble</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B. Vitamin K&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nII. Xerophthalmia</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C. Vitamin D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nIII. Convulsions</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;D. Vitamin A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nIV. Delayed blood Clotting</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) A- I,II;&nbsp; B-I, IV;&nbsp;\nC-I, D-III&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) A-III; B-I,IV; C-I; D-I,II&nbsp;&nbsp; &nbsp; </p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) A-I,IV; B- III; C-I; D-I,II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4) A-III; B-I,IV; C-I,II; D-I</p><br></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><b>Ans\: 2</b><br></p>
+}
+
+
+// question: 315  name: Q21
+::Q21::[html]<p><p>In\nE. coli DNA, AT/GC ratio is 0.93. If the number of moles of adenine in the DNA\nsample is 465,000, then the moles of guanine present is</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n1)465,000 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2)\n535,000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n3)500,000 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4)93,000 </p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	=<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><b>Ans\n\: 3; </b><b>Since the number of moles of adenine(A) must be equal to that of\nthymine(T), therefore, </b><b></b></p>\n\n<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nA+ T\=465,000 +465,000 \= 930,000</b></p>\n\n<p><b>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Further since (A+ T)/(G+C)\=0.93,\ntherefore,(G+C)\= 930,000/0.93 \= 1000000</b></p>\n\n<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Further\nsince the number of moles of C \= number of moles of G.</b></p>\n\n<p><b>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><b>\\</b><b>Number of moles of\nguanine (G) \= 1000,000 /2 \= 500,000</b></p><br></p>
+}
+
+
+// question: 322  name: Q22
+::Q22::[html]<p><p>&nbsp; &nbsp; &nbsp;<!--[endif]-->If\nthe sequence of bases in DNA is TGAACCCTT then the sequence of bases in m-RNA\nis</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) ACUUGGGAA&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 2) TCUUGGGTT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) ACUUCCCAA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) None\nof the above</p><br></p>{
+	=<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p></p><p><b>Ans\n\: 1; Sequence of bases in DNA\: TGAACCCTT</b></p><p><b>Since\naccording to base-pairing principle, T in DNA faces A in m-RNA, while G faces C\nand A faces U. Therefore, sequence of bases in m-RNA is\: ACUUGGGAA.</b></p><br><p></p>
+}
+
+
+// question: 378  name: Q23
+::Q23::[html]<p><img src\="@@PLUGINFILE@@/Q23.png" alt\="" width\="830" height\="170" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>{
+	=<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><img src\="@@PLUGINFILE@@/Ans23.png" alt\="" width\="447" height\="208" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>
+}
+
+
+// question: 388  name: Q24
+::Q24::[html]<p><p>&nbsp; &nbsp; &nbsp;<!--[endif]-->Which\nof the vitamins given below is water soluble?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) vitamin E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) vitamin K&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) vitamin C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) vitaminD</p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	=<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><b>Ans\n\: 3</b></p><br></p>
+}
+
+
+// question: 438  name: Q25
+::Q25::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]-->Pick\nthe wrong statement from the following&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) Consumption of citrus fruit and green\nleafy vegetable in food prevents scurvy.</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) Deficiency of Vitamin B<sub>6</sub>\nresults in Convulsions.</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) Sources of vitamin B<sub>1</sub> are\nyeast, milk, green vegetables and cereals.</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) Deficiency of vitamin D causes\nxerophthalmia.</p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	=<p>4</p>
+	####<p><p><b>Ans\:\n4, Deficiency of vit. D causes rickets.</b></p><br></p>
+}
+
+
+// question: 444  name: Q26
+::Q26::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]-->The\ndeficiency of vitamin K cause</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) Haemorrhage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n2) Lengthening time of blood clotting</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) Inflammation of tongue&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n&nbsp;&nbsp;&nbsp;4) Both (1) and (2)</p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	=<p>4</p>
+	####<p><p><b>Ans\:\n4</b></p><br></p>
+}
+
+
+// question: 455  name: Q27
+::Q27::[html]<p><p>&nbsp; &nbsp; &nbsp;<!--[endif]-->Glucose\nreacts with X number of molecules of phenyl hydrazine to yield osazone. The\nvalue of X is</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) Three &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) Two&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) One &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) Four</p><br></p>{
+	=<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><img src\="@@PLUGINFILE@@/Ans%2027.png" alt\="" width\="825" height\="276" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>
+}
+
+
+// question: 505  name: Q28
+::Q28::[html]<p><p>&nbsp; &nbsp; &nbsp;<!--[endif]-->The\npeptide that gives positive ceric ammonium nitrate and carbylamines tests is\:</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) Ser – Lys&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) Asp – Glu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3) Glu – Asp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) Lys – Asp</p><br></p>{
+	=<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p>&nbsp;<b>Ans\:\n1; Serine has –OH group which gives positive ceric ammonium nitate test. Lysine\nhas –NH<sub>2</sub></b><b style\="font-size\: 0.9375rem;">&nbsp;group\nwhich gives positive carbylamines test.</b></p><br></p>
+}
+
+
+// question: 604  name: Q29
+::Q29::[html]<p><p><img src\="@@PLUGINFILE@@/Q29.png" alt\="" width\="752" height\="166" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><b>Ans\:2</b></p><br></p>
+}
+
+
+// question: 123  name: Q3
+::Q3::[html]<p><p>The\nterm anomers of glucose refers to</p>\n\n<p>&nbsp;1) Isomers of glucose that differ in\nconfigurations at carbons one and four (C-1 and C-4)</p>\n\n<p>&nbsp;2) A mixture of (D)-glucose and\n(L)-glucose</p>\n\n<p>&nbsp;3) Enantiomers of glucose&nbsp;&nbsp;&nbsp;&nbsp; </p>\n\n<p>&nbsp; 4) &nbsp;Isomers of glucose that\ndiffer in configuration at carbon one (C-1)</p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	=<p>4</p>
+	####<p><p><b>Ans\n\: 4.</b></p><br></p>
+}
+
+
+// question: 655  name: Q30
+::Q30::[html]<p><p>Which\nof the following is the sweetest sugar?</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n1) &nbsp;Sucrose &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) Glucose&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3)\nFructose&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) Maltose</p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	=<p>3</p>
+	~%-25%<p>4</p>
+	####<p><b>Ans\n\: 3</b><br></p>
+}
+
+
+// question: 664  name: Q31
+::Q31::[html]<p><img src\="@@PLUGINFILE@@/Q31.png" alt\="" width\="795" height\="229" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	=<p>3</p>
+	~%-25%<p>4</p>
+	####<p><img src\="@@PLUGINFILE@@/Ans31.png" alt\="" width\="980" height\="162" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>
+}
+
+
+// question: 671  name: Q32
+::Q32::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]-->Which\nof the following reactions of glucose can be explained only by its cyclic\nstructure?</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) Glucose forms a cyanohydrin with HCN</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) Glucose reacts with hydroxylamine to\nform an oxime</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) Pentaacetate of glucose does not\nreact with hydroxylamine</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) Glucose is oxidized by nitric acid to\ngluconic acid. </p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	=<p>3</p>
+	~%-25%<p>4</p>
+	####<p><b>Ans\:\n3</b><br></p>
+}
+
+
+// question: 681  name: Q33
+::Q33::[html]<p><img src\="@@PLUGINFILE@@/Q33.png" alt\="" width\="823" height\="293" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	=<p>4</p>
+	####<p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Ans\:\n4</b></p><br></p>
+}
+
+
+// question: 703  name: Q34
+::Q34::[html]<p><img src\="@@PLUGINFILE@@/Q34.png" alt\="" width\="945" height\="198" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><img src\="@@PLUGINFILE@@/Ans34.png" alt\="" width\="896" height\="185" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>
+}
+
+
+// question: 715  name: Q35
+::Q35::[html]<p><img src\="@@PLUGINFILE@@/Q35.png" alt\="" width\="611" height\="278" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	=<p>3</p>
+	~%-25%<p>4</p>
+	####<p><img src\="@@PLUGINFILE@@/Ans35.png" alt\="" width\="555" height\="141" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>
+}
+
+
+// question: 721  name: Q36
+::Q36::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]-->The\nnon-essential amino acid among the following is\:</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) Valine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) Leucine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3)\nAlanine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4)\nLysine</p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	=<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><b>Ans\:\n3</b></p><br></p>
+}
+
+
+// question: 731  name: Q37
+::Q37::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]-->In\nboth DNA and RNA, heterocyclic base and phosphate ester linkages are at</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) C<sub>5</sub>’ andC<sub>1</sub>’\nrespectively of the sugar molecule&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) C<sub>1</sub>’ and C<sub>5</sub>’\nrespectively of the sugar molecule&nbsp;&nbsp;&nbsp;&nbsp; </p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) C<sub>2</sub>’ and C<sub>5</sub>’\nrespectively of the sugar molecule&nbsp;&nbsp;&nbsp;&nbsp; </p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) C<sub>5</sub>’ and C<sub>2</sub>’\nrespectively of the sugar molecule</p><br></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p></p><p></p><img src\="@@PLUGINFILE@@/Ans37.png" alt\="" width\="710" height\="205" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br><p></p>
+}
+
+
+// question: 746  name: Q38
+::Q38::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]-->The\nstructural feature which distinguishes proline from natural a-amino acids?</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) Proline is optically inactive&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) Proline contains aromatic\ngroup</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) Proline is a dicarboxylic acid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) Proline is a secondary amine</p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	=<p>4</p>
+	####<p><p><b>Ans\n\: 4</b></p>\n\n<p><b>&nbsp;</b></p><br></p>
+}
+
+
+// question: 769  name: Q39
+::Q39::[html]<p><p><img src\="@@PLUGINFILE@@/Q39.png" alt\="" width\="593" height\="55" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><img src\="@@PLUGINFILE@@/Ans39.png" alt\="" width\="312" height\="77" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>
+}
+
+
+// question: 131  name: Q4
+::Q4::[html]<p><p>&nbsp; &nbsp; &nbsp;<!--[endif]-->Thiol\ngroup is present in</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) Cystine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) Cysteine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) Methionine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) Cytosine</p><br></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><img src\="@@PLUGINFILE@@/Ans4.png" alt\="" width\="144" height\="63" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>
+}
+
+
+// question: 202  name: Q4
+::Q4::[html]<p><img src\="@@PLUGINFILE@@/Q5..png" alt\="" width\="620" height\="153" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>{
+	=<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><b>Ans\n\:1.</b></p><br></p>
+}
+
+
+// question: 781  name: Q40
+::Q40::[html]<p><p>The\npurpose of adding dilute sulphuric acid in the preparation of Mohr salt is</p>\n\n<p>1) To prevent the hydrolysis of ferrous\nsulphate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) To increase\nthe solubility of the salt used</p>\n\n<p>3) To prevent the precipitation of\ncarbonates of metals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) To\nneutralize ammonium salts.</p><br></p>{
+	=<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><b>Ans\n\: 1</b></p><br></p>
+}
+
+
+// question: 796  name: Q41
+::Q41::[html]<p><p>Chromyl\nchloride vapours are dissolved in water and acetic acid and lead acetate\nsolution is added, then</p>\n\n<p>1) The solution will remain\ncolourless&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2)\nThe solution will become dark green</p>\n\n<p>3) A yellow solution will be\nobtained&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) A\nyellow precipitate will be obtained</p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	=<p>4</p>
+	####<p><img src\="@@PLUGINFILE@@/Ans41.png" alt\="" width\="379" height\="106" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>
+}
+
+
+// question: 811  name: Q42
+::Q42::[html]<p><p>If\nNaOH is added to an aqueous solution of zinc ions a white precipitate appears\nand on adding excess NaOH, the precipitate dissolves. In this solution zinc\nexists in the </p>\n\n<p>1) Cationic part&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n2) Anionic part&nbsp;&nbsp;&nbsp; </p>\n\n<p>3) Both in cationic and anionic\nparts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n4) There is no zinc ion in the solution</p><br></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><img src\="@@PLUGINFILE@@/Ans42.png" alt\="" width\="319" height\="49" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p></p>
+}
+
+
+// question: 818  name: Q43
+::Q43::[html]<p><p>The\nsalt insoluble in cold water but soluble in boiling water is</p>\n\n<p>1) CaCl<sub>2</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) BaCl<sub>2</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) SrCl<sub>2</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) PbCl<sub>2</sub></p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	=<p>4</p>
+	####<p><p><b>Ans\n\: 4</b></p><br></p>
+}
+
+
+// question: 827  name: Q44
+::Q44::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]-->Mg\nis not precipitated in V group because <b></b></p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n1) MgCO<sub>3</sub> is soluble in water&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) MgCO<sub>3</sub> is soluble in\nNH<sub>4</sub>Cl</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n3) MgCO<sub>3</sub> is soluble in NH<sub>4</sub>OH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n4) none</p><br></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><img src\="@@PLUGINFILE@@/Ans44.png" alt\="" width\="689" height\="66" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>
+}
+
+
+// question: 833  name: Q45
+::Q45::[html]<p><p>Upon\ntreatment with ammoniacal H<sub>2</sub>S, the metal ion that precipitates as a\nsulphide is </p>\n\n<p>1) Fe (III)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) Al (III)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) Mg (II)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) Zn (II)</p><br></p>{
+	~%-25%<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	=<p>4</p>
+	####<p><p><b>Ans\n\: 4; Ammoniacal H<sub>2</sub>S is a group reagent for fourth group basic\nradicals. Fe (III), Al (III), Mg (II) precipitates as hydroxides.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b></p><br></p>
+}
+
+
+// question: 208  name: Q6
+::Q6::[html]<p><img src\="@@PLUGINFILE@@/Q6.png" alt\="" width\="717" height\="132" role\="presentation" class\="img-responsive atto_image_button_text-bottom"><br></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><b>Ans\:\n2; The dipeptide, Gln-Gly, on treatment with&nbsp;CH<sub>3</sub>COCl followed\nby aqueous work up gives the product shown in option (2). Amino group of\nglutamine is acetylated. Amide group of glutamine is not acetylated.</b></p><p><b style\="font-size\: 0.9375rem;">Note\: Acetylation of amide\nrequires activation of amides and/or acyl donors, since the nitrogen atom</b><b style\="font-size\: 0.9375rem;">&nbsp;of amides is less basic than that\nof the corresponding amines due to amide resonance.</b></p><br></p>
+}
+
+
+// question: 212  name: Q7
+::Q7::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]-->Adenosine\nis an example of </p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n1) Purine base&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2)\nNucleoside&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3)\nNucleotide&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4)\nPyrimidine base </p><br></p>{
+	~%-25%<p>1</p>
+	=<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><b>Ans\n\: 2.</b></p><br></p>
+}
+
+
+// question: 217  name: Q8
+::Q8::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]-->Two\nsamples of DNA, A and B have melting points 340 K and 350 K respectively. This\nis because</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) B has more GC content than A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) A has\nmore GC content than B</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) B has more AT content than A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) Both have\nsame AT content.</p><br></p>{
+	=<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><b>Ans \: &nbsp;1; Since GC base pair having three H- bonds\nand AT base pair having two H-bonds, therefore,&nbsp; </b><b style\="font-size\: 0.9375rem;">DNA, B has higher melting point\nthan DNA, A.</b></p><br></p>
+}
+
+
+// question: 222  name: Q9
+::Q9::[html]<p><p>&nbsp; &nbsp; &nbsp;&nbsp;<!--[endif]-->Vitamin\nC is a/an</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp; 1) lactone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) amine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) amide&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) alcohol</p><br></p>{
+	=<p>1</p>
+	~%-25%<p>2</p>
+	~%-25%<p>3</p>
+	~%-25%<p>4</p>
+	####<p><p><b>Ans\n\: 1.</b></p><br></p>
+}
+
+
